@@ -1,0 +1,8 @@
+Flask
+flask-cors
+requests
+python-dotenv
+africastalking
+SQLAlchemy
+psycopg2
+pyngrok==7.2.3
